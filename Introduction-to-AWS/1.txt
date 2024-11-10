@@ -1,0 +1,27 @@
+1
+Introduction to AWS
+
+0%
+Dive deep into the heart of Amazon Web Services, understanding its foundational significance in the cloud computing landscape.
+The world of AWS
+50 XP
+Navigating the AWS console
+100 XP
+Benefits of AWS
+50 XP
+Classifying the benefits of using AWS
+100 XP
+Exploring useful services in AWS
+100 XP
+Introduction to the AWS Well-Architected Framework
+50 XP
+Protecting systems, information, and assets
+50 XP
+Apply the Well-Architected Framework pillars
+100 XP
+Introduction to Cloud Migration
+50 XP
+Cloud adoption strategies with AWS CAF
+100 XP
+Exploring migration services
+100 XP

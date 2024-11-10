@@ -1,0 +1,29 @@
+2
+Using Convolutions
+0%
+Convolutions are the fundamental building blocks of convolutional neural networks. In this chapter, you will be introducted to convolutions and learn how they operate on image data. You will also see how you incorporate convolutions into Keras neural networks.
+
+Convolutions
+50 XP
+One dimensional convolutions
+100 XP
+Image convolutions
+100 XP
+Defining image convolution kernels
+100 XP
+Implementing image convolutions in Keras
+50 XP
+Convolutional network for image classification
+100 XP
+Training a CNN to classify clothing types
+100 XP
+Evaluating a CNN with test data
+100 XP
+Tweaking your convolutions
+50 XP
+Add padding to a CNN
+100 XP
+Add strides to a convolutional network
+100 XP
+Calculate the size of convolutional layer output
+50 XP

@@ -1,0 +1,32 @@
+3
+Cloud Providers and Case Studies
+0%
+In the final chapter, you’ll be introduced to the major cloud infrastructure players, including AWS, Microsoft Azure, and Google Cloud. You’ll become more familiar with their market positioning, the products they offer, and who their main customers are and how they use cloud computing.
+
+An overview of providers
+50 XP
+The big three
+100 XP
+The risk of vendor lock-in
+50 XP
+Amazon Web Services
+50 XP
+AWS or not AWS!
+50 XP
+NerdWallet
+50 XP
+Microsoft Azure
+50 XP
+Which service to pick?
+100 XP
+The Ottawa hospital
+50 XP
+Google Cloud
+50 XP
+Lush migration
+50 XP
+True or false?
+100 XP
+Cloud providers and their services
+100 XP
+Congratulations!

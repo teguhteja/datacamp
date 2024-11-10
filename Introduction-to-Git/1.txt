@@ -1,0 +1,29 @@
+1
+Introduction to Git
+Free
+0%
+In the first chapter, you’ll learn what version control is and why it is essential for data projects. Then, you’ll discover what Git is and how to use it for a version control workflow.
+Introduction to version control with Git
+50 XP
+Using the shell
+50 XP
+Checking the version of Git
+100 XP
+Saving files
+50 XP
+Where does Git store information?
+50 XP
+The Git workflow
+100 XP
+Adding a file
+100 XP
+Adding multiple files
+100 XP
+Comparing files
+50 XP
+What has changed?
+50 XP
+What is going to be committed?
+100 XP
+What's in the staging area?
+50 XP

@@ -1,0 +1,33 @@
+4
+Importing JSON Data and Working with APIs
+0%
+Learn how to work with JSON data and web APIs by exploring a public dataset and getting cafe recommendations from Yelp. End by learning some techniques to combine datasets once they have been loaded into data frames.
+
+Introduction to JSON
+50 XP
+Load JSON data
+100 XP
+Work with JSON orientations
+100 XP
+Introduction to APIs
+50 XP
+Get data from an API
+100 XP
+Set API parameters
+100 XP
+Set request headers
+100 XP
+Working with nested JSONs
+50 XP
+Flatten nested JSONs
+100 XP
+Handle deeply nested data
+100 XP
+Combining multiple datasets
+50 XP
+Concatenate dataframes
+100 XP
+Merge dataframes
+100 XP
+Wrap-up
+50 XP

@@ -1,0 +1,35 @@
+3
+Gaining efficiencies
+0%
+This chapter covers more complex efficiency tips and tricks. You'll learn a few useful built-in modules for writing efficient code and practice using set theory. You'll then learn about looping patterns in Python and how to make them more efficient.
+
+Efficiently combining, counting, and iterating
+50 XP
+Combining Pokémon names and types
+100 XP
+Counting Pokémon from a sample
+100 XP
+Combinations of Pokémon
+100 XP
+Set theory
+50 XP
+Comparing Pokédexes
+100 XP
+Searching for Pokémon
+100 XP
+Gathering unique Pokémon
+100 XP
+Eliminating loops
+50 XP
+Gathering Pokémon without a loop
+100 XP
+Pokémon totals and averages without a loop
+100 XP
+Writing better loops
+50 XP
+One-time calculation loop
+100 XP
+Holistic conversion loop
+100 XP
+Bringing it all together: Pokémon z-scores
+100 XP

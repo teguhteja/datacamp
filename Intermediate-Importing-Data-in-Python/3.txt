@@ -1,0 +1,19 @@
+Diving deep into the Twitter API
+
+0%
+In this chapter, you will consolidate your knowledge of interacting with APIs in a deep dive into the Twitter streaming API. You'll learn how to stream real-time Twitter data, and how to analyze and visualize it.
+
+The Twitter API and Authentication
+50 XP
+Streaming tweets
+100 XP
+Load and explore your Twitter data
+100 XP
+Twitter data to DataFrame
+100 XP
+A little bit of Twitter text analysis
+100 XP
+Plotting your Twitter data
+100 XP
+Final Thoughts
+50 XP

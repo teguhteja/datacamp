@@ -1,0 +1,29 @@
+3
+Lambda functions and error-handling
+
+0%
+Build lambda functions on the fly, and discover how to error-proof your code!
+Lambda functions
+50 XP
+Adding tax
+100 XP
+Calling lambda in-line
+100 XP
+Lambda functions with iterables
+100 XP
+Introduction to errors
+50 XP
+Debugging code
+100 XP
+Module and package tracebacks
+50 XP
+Fixing an issue
+50 XP
+Error handling
+50 XP
+Avoiding errors
+100 XP
+Returning errors
+100 XP
+Congratulations
+50 XP

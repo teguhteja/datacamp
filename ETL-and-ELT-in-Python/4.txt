@@ -1,0 +1,33 @@
+4
+Deploying and Maintaining a Data Pipeline
+Locked
+0%
+In this final chapter, you’ll create frameworks to validate and test data pipelines before shipping them into production. After you’ve tested your pipeline, you’ll explore techniques to run your data pipeline end-to-end, all while allowing for visibility into pipeline performance.
+Manually testing a data pipeline
+50 XP
+Testing data pipelines
+50 XP
+Validating a data pipeline at "checkpoints"
+100 XP
+Testing a data pipeline end-to-end
+100 XP
+Unit-testing a data pipeline
+50 XP
+Validating a data pipeline with assert
+100 XP
+Writing unit tests with pytest
+100 XP
+Creating fixtures with pytest
+100 XP
+Unit testing a data pipeline with fixtures
+100 XP
+Running a data pipeline in production
+50 XP
+Orchestration and ETL tools
+50 XP
+Data pipeline architecture patterns
+100 XP
+Running a data pipeline end-to-end
+100 XP
+Congratulations!
+50 XP

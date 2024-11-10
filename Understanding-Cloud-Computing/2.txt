@@ -1,0 +1,23 @@
+2
+Cloud Deployment
+
+0%
+Now that you understand the power of cloud computing, it’s time to discover how it’s implemented using one of three deployment methods—private, public, and hybrid. You'll then find out how data protection regulations can affect cloud infrastructure. Lastly, you’ll meet the important roles within an organization that can make your cloud deployment a reality.
+Cloud deployment models
+50 XP
+Private or public?
+100 XP
+Pick the best model
+50 XP
+Regulations on the cloud
+50 XP
+Time limits on storing data
+50 XP
+Personal data
+100 XP
+Cloud computing roles
+50 XP
+Microsoft cloud skills report
+50 XP
+Cloud roles
+100 XP

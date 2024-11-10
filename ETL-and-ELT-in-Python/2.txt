@@ -1,0 +1,37 @@
+2
+Building ETL Pipelines
+Locked
+0%
+Dive into leveraging pandas to extract, transform, and load data as you build your first data pipelines. Learn how to make your ETL logic reusable, and apply logging and exception handling to your pipelines.
+Extracting data from structure sources
+50 XP
+Extracting data from parquet files
+100 XP
+Pulling data from SQL databases
+100 XP
+Building functions to extract data
+100 XP
+Transforming data with pandas
+50 XP
+Filtering pandas DataFrames
+100 XP
+Transforming sales data with pandas
+100 XP
+Validating data transformations
+100 XP
+Persisting data with pandas
+50 XP
+Loading sales data to a CSV file
+100 XP
+Customizing a CSV file
+100 XP
+Persisting data to files
+100 XP
+Monitoring a data pipeline
+50 XP
+Logging within a data pipeline
+100 XP
+Handling exceptions when loading data
+100 XP
+Monitoring and alerting within a data pipeline
+100 XP

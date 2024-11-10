@@ -1,0 +1,33 @@
+4
+Image Comparison
+
+0%
+For the final chapter, you'll need to use your brain... and hundreds of others! Drawing data from more than 400 open-access MR images, you'll learn the basics of registration, resampling, and image comparison. Then, you'll use the extracted measurements to evaluate the effect of Alzheimer's Disease on brain structure.
+Spatial transformations
+50 XP
+Translations
+100 XP
+Rotations
+100 XP
+Affine transform
+50 XP
+Resampling and interpolation
+50 XP
+Resampling
+100 XP
+Interpolation
+100 XP
+Comparing images
+50 XP
+Mean absolute error
+100 XP
+Intersection of the union
+50 XP
+Normalizing measurements
+50 XP
+Identifying potential confounds
+100 XP
+Testing group differences
+100 XP
+Normalizing metrics
+100 XP

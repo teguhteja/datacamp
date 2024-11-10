@@ -1,0 +1,33 @@
+2
+Masks and Filters
+
+0%
+Cut image processing to the bone by transforming x-ray images. You'll learn how to exploit intensity patterns to select sub-regions of an array, and you'll use convolutional filters to detect interesting features. You'll also use SciPy's ndimage module, which contains a treasure trove of image processing tools.
+Image intensities
+50 XP
+Intensity
+100 XP
+Histograms
+100 XP
+Masks
+50 XP
+Create a mask
+100 XP
+Apply a mask
+100 XP
+Tune a mask
+100 XP
+Filters
+50 XP
+Filter convolutions
+100 XP
+Filter functions
+50 XP
+Smoothing
+100 XP
+Feature detection
+50 XP
+Detect edges (1)
+100 XP
+Detect edges (2)
+100 XP

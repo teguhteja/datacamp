@@ -1,0 +1,29 @@
+1
+Exploration
+Free
+0%
+Prepare to conquer the Nth dimension! To begin the course, you'll learn how to load, build and navigate N-dimensional images using a CT image of the human chest. You'll also leverage the useful ImageIO package and hone your NumPy and matplotlib skills.
+Image data
+50 XP
+Load images
+100 XP
+Metadata
+100 XP
+Plot images
+100 XP
+N-dimensional images
+50 XP
+Stack images
+100 XP
+Load volumes
+100 XP
+Field of view
+50 XP
+Advanced plotting
+50 XP
+Generate subplots
+100 XP
+Slice 3D images
+100 XP
+Plot other views
+100 XP

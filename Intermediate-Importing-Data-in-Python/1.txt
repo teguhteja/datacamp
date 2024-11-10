@@ -1,0 +1,29 @@
+1
+Importing data from the Internet
+Free
+0%
+The web is a rich source of data from which you can extract various types of insights and findings. In this chapter, you will learn how to get data from the web, whether it is stored in files or in HTML. You'll also learn the basics of scraping and parsing web data.
+Importing flat files from the web
+50 XP
+Importing flat files from the web: your turn!
+100 XP
+Opening and reading flat files from the web
+100 XP
+Importing non-flat files from the web
+100 XP
+HTTP requests to import files from the web
+50 XP
+Performing HTTP requests in Python using urllib
+100 XP
+Printing HTTP request results in Python using urllib
+100 XP
+Performing HTTP requests in Python using requests
+100 XP
+Scraping the web in Python
+50 XP
+Parsing HTML with BeautifulSoup
+100 XP
+Turning a webpage into data using BeautifulSoup: getting the text
+100 XP
+Turning a webpage into data using BeautifulSoup: getting the hyperlinks
+100 XP

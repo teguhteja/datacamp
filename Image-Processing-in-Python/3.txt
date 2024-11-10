@@ -1,0 +1,33 @@
+3
+Image restoration, Noise, Segmentation and Contours
+
+0%
+So far, you have done some very cool things with your image processing skills! In this chapter, you will apply image restoration to remove objects, logos, text, or damaged areas in pictures! You will also learn how to apply noise, use segmentation to speed up processing, and find elements in images by their contours.
+Image restoration
+50 XP
+Let's restore a damaged image
+100 XP
+Removing logos
+100 XP
+Noise
+50 XP
+Let's make some noise!
+100 XP
+Reducing noise
+100 XP
+Reducing noise while preserving edges
+100 XP
+Superpixels & segmentation
+50 XP
+Number of pixels
+50 XP
+Superpixel segmentation
+100 XP
+Finding contours
+50 XP
+Contouring shapes
+100 XP
+Find contours of an image that is not binary
+100 XP
+Count the dots in a dice's image
+100 XP

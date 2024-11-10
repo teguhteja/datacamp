@@ -1,0 +1,39 @@
+2
+Writing Your Own Docker Images
+
+0%
+Once you are able to manage images and containers, it's time to know how to share images with colleagues or your entire company and to understand how to create your own. Now, you'll build your own images using Dockerfiles. Dockerfiles are text files that include everything needed for Docker to build an image. You'll learn how to create images and will get an introduction to all the essential Dockerfile instructions like FROM, RUN, COPY, and more. By the end of this chapter, you'll have insight into how Docker makes images and be able to create optimized Docker images from scratch.
+Distributing Docker Images
+50 XP
+Sharing your work using a Docker registry
+100 XP
+Saving an image to a file
+100 XP
+Receiving Docker Images
+100 XP
+Creating your own Docker images
+50 XP
+Building your first image
+100 XP
+Working in the command-line
+100 XP
+Editing a Dockerfile
+100 XP
+Creating your own Dockerfile
+100 XP
+Managing files in your image
+50 XP
+Copying files into an image
+100 XP
+Copying folders
+100 XP
+Working with downloaded files
+100 XP
+Choosing a start command for your Docker image
+50 XP
+Overriding the default command
+50 XP
+Pulling a specific tag
+100 XP
+Adding a CMD
+100 XP

@@ -1,0 +1,31 @@
+2
+Timing and profiling code
+0%
+In this chapter, you will learn how to gather and compare runtimes between different coding approaches. You'll practice using the line_profiler and memory_profiler packages to profile your code base and spot bottlenecks. Then, you'll put your learnings to practice by replacing these bottlenecks with efficient Python code.
+
+Examining runtime
+50 XP
+Using %timeit: your turn!
+100 XP
+Using %timeit: specifying number of runs and loops
+50 XP
+Using %timeit: formal name or literal syntax
+100 XP
+Code profiling for runtime
+50 XP
+Pop quiz: steps for using %lprun
+50 XP
+Using %lprun: spot bottlenecks
+50 XP
+Using %lprun: fix the bottleneck
+50 XP
+Code profiling for memory usage
+50 XP
+Pop quiz: steps for using %mprun
+50 XP
+Using %mprun: Hero BMI
+50 XP
+Using %mprun: Hero BMI 2.0
+50 XP
+Bringing it all together: Star Wars profiling
+100 XP

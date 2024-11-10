@@ -1,0 +1,29 @@
+2
+Writing a Python Module
+0%
+Become a fully fledged Python package developer by writing your first package! You'll learn how to structure and write Python code that you can be installed, used, and distributed just like famous packages such as NumPy and Pandas.
+
+Writing your first package
+50 XP
+Minimal package requirements
+50 XP
+Naming packages
+100 XP
+Recognizing packages
+100 XP
+Adding functionality to packages
+50 XP
+Adding functionality to your package
+100 XP
+Using your package's new functionality
+100 XP
+Making your package portable
+50 XP
+Writing requirements.txt
+100 XP
+Installing package requirements
+50 XP
+Creating setup.py
+100 XP
+Listing requirements in setup.py
+100 XP

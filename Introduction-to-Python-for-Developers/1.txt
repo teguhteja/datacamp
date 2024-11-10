@@ -1,0 +1,29 @@
+1
+Introduction to Python
+Free
+0%
+Discover the wonders of Python - why it is popular and how to use it. No prior knowledge required!
+What is Python?
+50 XP
+The benefits of Python
+50 XP
+Use-cases for Python
+100 XP
+How to run Python code
+50 XP
+Working with Python files
+50 XP
+Python as a calculator
+100 XP
+Advanced calculations
+100 XP
+Variables and data types
+50 XP
+Naming conventions
+100 XP
+Checking data types
+100 XP
+Working with variables
+100 XP
+Checking and updating conditions
+100 XP

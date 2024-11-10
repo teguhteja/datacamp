@@ -1,0 +1,35 @@
+1
+Introduction and flat files
+Free
+0%
+In this chapter, you'll learn how to import data into Python from all types of flat files, which are a simple and prevalent form of data storage. You've previously learned how to use NumPy and pandas—you will learn how to use these packages to import flat files and customize your imports.
+Welcome to the course!
+50 XP
+Importing entire text files
+100 XP
+Importing text files line by line
+100 XP
+The importance of flat files in data science
+50 XP
+Pop quiz: what exactly are flat files?
+50 XP
+Why we like flat files and the Zen of Python
+50 XP
+Importing flat files using NumPy
+50 XP
+Using NumPy to import flat files
+100 XP
+Customizing your NumPy import
+100 XP
+Importing different datatypes
+100 XP
+Importing flat files using pandas
+50 XP
+Using pandas to import flat files as DataFrames (1)
+100 XP
+Using pandas to import flat files as DataFrames (2)
+100 XP
+Customizing your pandas import
+100 XP
+Final thoughts on data import
+50 XP

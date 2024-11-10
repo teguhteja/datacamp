@@ -1,0 +1,35 @@
+3
+Git workflows
+0%
+In this chapter, you'll learn tips and tricks for configuring Git to make you more efficient! You'll also discover branches, identify how to create and switch to different branches, compare versions of files between branches, merge branches together, and deal with conflicting files across branches.
+
+Configuring Git
+50 XP
+Modifying your email address in Git
+100 XP
+Creating an alias
+100 XP
+Ignoring files
+50 XP
+Branches
+50 XP
+Branching and merging
+50 XP
+Creating new branches
+100 XP
+Checking the number of branches
+50 XP
+Comparing branches
+100 XP
+Working with branches
+50 XP
+Switching branches
+100 XP
+Merging two branches
+100 XP
+Handling conflict
+50 XP
+Recognizing conflict syntax
+50 XP
+Resolving a conflict
+100 XP

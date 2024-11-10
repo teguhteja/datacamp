@@ -1,0 +1,25 @@
+1
+Importing Data from Flat Files
+Free
+0%
+Practice using pandas to get just the data you want from flat files, learn how to wrangle data types and handle errors, and look into some U.S. tax data along the way.
+Introduction to flat files
+50 XP
+Get data from CSVs
+100 XP
+Get data from other flat files
+100 XP
+Modifying flat file imports
+50 XP
+Import a subset of columns
+100 XP
+Import a file in chunks
+100 XP
+Handling errors and missing data
+50 XP
+Specify data types
+100 XP
+Set custom NA values
+100 XP
+Skip bad data
+100 XP

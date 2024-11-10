@@ -1,0 +1,39 @@
+3
+Working with relational databases in Python
+
+0%
+In this chapter, you'll learn how to extract meaningful data from relational databases, an essential skill for any data scientist. You will learn about relational models, how to create SQL queries, how to filter and order your SQL records, and how to perform advanced queries by joining database tables.
+Introduction to relational databases
+50 XP
+Pop quiz: The relational model
+50 XP
+Creating a database engine in Python
+50 XP
+Creating a database engine
+100 XP
+What are the tables in the database?
+100 XP
+Querying relational databases in Python
+50 XP
+The Hello World of SQL Queries!
+100 XP
+Customizing the Hello World of SQL Queries
+100 XP
+Filtering your database records using SQL's WHERE
+100 XP
+Ordering your SQL records with ORDER BY
+100 XP
+Querying relational databases directly with pandas
+50 XP
+Pandas and The Hello World of SQL Queries!
+100 XP
+Pandas for more complex querying
+100 XP
+Advanced querying: exploiting table relationships
+50 XP
+The power of SQL lies in relationships between tables: INNER JOIN
+100 XP
+Filtering your INNER JOIN
+100 XP
+Final Thoughts
+50 XP

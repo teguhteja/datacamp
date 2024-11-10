@@ -1,0 +1,29 @@
+1
+The Python Ecosystem
+Free
+0%
+Discover Python's rich ecosystem of built-in functions and modules, plus how to download and work with packages.
+Built-in functions
+50 XP
+Get some assistance
+100 XP
+Counting the elements
+100 XP
+Performing calculations
+100 XP
+Modules
+50 XP
+What is a module?
+50 XP
+Working with the string module
+100 XP
+Importing from a module
+100 XP
+Packages
+50 XP
+Package or module?
+100 XP
+Working with pandas
+100 XP
+Performing calculations with pandas
+100 XP

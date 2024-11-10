@@ -1,0 +1,41 @@
+2
+Importing data from other file types
+
+0%
+You've learned how to import flat files, but there are many other file types you will potentially have to work with as a data scientist. In this chapter, you'll learn how to import data into Python from a wide array of important file types. These include pickled files, Excel spreadsheets, SAS and Stata files, HDF5 files, a file type for storing large quantities of numerical data, and MATLAB files.
+Introduction to other file types
+50 XP
+Not so flat any more
+50 XP
+Loading a pickled file
+100 XP
+Listing sheets in Excel files
+100 XP
+Importing sheets from Excel files
+100 XP
+Customizing your spreadsheet import
+100 XP
+Importing SAS-Stata files using pandas
+50 XP
+How to import SAS7BDAT
+50 XP
+Importing SAS files
+100 XP
+Using read_stata to import Stata files
+50 XP
+Importing Stata files
+100 XP
+Importing HDF5 files
+50 XP
+Using File to import HDF5 files
+50 XP
+Using h5py to import HDF5 files
+100 XP
+Extracting data from your HDF5 file
+100 XP
+Importing MATLAB files
+50 XP
+Loading .mat files
+100 XP
+The structure of .mat in Python
+100 XP

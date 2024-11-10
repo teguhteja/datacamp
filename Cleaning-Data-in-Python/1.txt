@@ -1,0 +1,27 @@
+1
+Common data problems
+Free
+0%
+In this chapter, you'll learn how to overcome some of the most common dirty data problems. You'll convert data types, apply range constraints to remove future data points, and remove duplicated data points to avoid double-counting.
+Data type constraints
+50 XP
+Common data types
+100 XP
+Numeric data or ... ?
+100 XP
+Summing strings and concatenating numbers
+100 XP
+Data range constraints
+50 XP
+Tire size constraints
+100 XP
+Back to the future
+100 XP
+Uniqueness constraints
+50 XP
+How big is your subset?
+50 XP
+Finding duplicates
+100 XP
+Treating duplicates
+100 XP

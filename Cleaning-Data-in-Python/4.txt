@@ -1,0 +1,29 @@
+4
+Record linkage
+
+0%
+Record linkage is a powerful technique used to merge multiple datasets together, used when values have typos or different spellings. In this chapter, you'll learn how to link records by calculating the similarity between strings—you’ll then use your new skills to join two restaurant review datasets into one clean master dataset.
+Comparing strings
+50 XP
+Minimum edit distance
+50 XP
+The cutoff point
+100 XP
+Remapping categories II
+100 XP
+Generating pairs
+50 XP
+To link or not to link?
+100 XP
+Pairs of restaurants
+100 XP
+Similar restaurants
+100 XP
+Linking DataFrames
+50 XP
+Getting the right index
+50 XP
+Linking them together!
+100 XP
+Congratulations!
+50 XP

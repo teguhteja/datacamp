@@ -1,0 +1,27 @@
+3
+Advanced data problems
+0%
+In this chapter, you’ll dive into more advanced data cleaning problems, such as ensuring that weights are all written in kilograms instead of pounds. You’ll also gain invaluable skills that will help you verify that values have been added correctly and that missing values don’t negatively impact your analyses.
+
+Uniformity
+50 XP
+Ambiguous dates
+50 XP
+Uniform currencies
+100 XP
+Uniform dates
+100 XP
+Cross field validation
+50 XP
+Cross field or no cross field?
+100 XP
+How's our data integrity?
+100 XP
+Completeness
+50 XP
+Is this missing at random?
+50 XP
+Missing investors
+100 XP
+Follow the money
+100 XP

@@ -1,0 +1,33 @@
+2
+Importing Data From Excel Files
+0%
+Automate data imports from that staple of office life, Excel files. Import part or all of a workbook and ensure boolean and datetime data are properly loaded, all while learning about how other people are learning to code.
+
+Introduction to spreadsheets
+50 XP
+Get data from a spreadsheet
+100 XP
+Load a portion of a spreadsheet
+100 XP
+Getting data from multiple worksheets
+50 XP
+Select a single sheet
+100 XP
+Select multiple sheets
+100 XP
+Work with multiple spreadsheets
+100 XP
+Modifying imports: true or false data
+50 XP
+Set Boolean columns
+100 XP
+Set custom true or false values
+100 XP
+Modifying imports: parsing dates
+50 XP
+Parse simple dates
+100 XP
+Get datetimes from multiple columns
+100 XP
+Parse non-standard date formats
+100 XP

@@ -1,0 +1,35 @@
+4
+Maintainability
+0%
+You've now written a fully functional Python package for text analysis! To make maintaining your project as easy as possible we'll leverage best practices around concepts such as documentation and unit testing.
+
+Documentation
+50 XP
+Identifying good comments
+100 XP
+Identifying proper docstrings
+100 XP
+Writing docstrings
+100 XP
+Readability counts
+50 XP
+Using good function names
+100 XP
+Using good variable names
+100 XP
+Refactoring for readability
+100 XP
+Unit testing
+50 XP
+Using doctest
+100 XP
+Using pytest
+100 XP
+Documentation & testing in practice
+50 XP
+Documenting classes for Sphinx
+100 XP
+Identifying tools
+50 XP
+Final Thoughts
+50 XP

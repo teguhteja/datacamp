@@ -1,0 +1,35 @@
+3
+Advanced ETL Techniques
+Locked
+0%
+Supercharge your workflow with advanced data pipelining techniques, such as working with non-tabular data and persisting DataFrames to SQL databases. Discover tooling to tackle advanced transformations with pandas, and uncover best-practices for working with complex data.
+Extracting non-tabular data
+50 XP
+Ingesting JSON data with pandas
+100 XP
+Reading JSON data into memory
+100 XP
+Transforming non-tabular data
+50 XP
+Iterating over dictionaries
+100 XP
+Parsing data from dictionaries
+100 XP
+Transforming JSON data
+100 XP
+Transforming and cleaning DataFrames
+100 XP
+Advanced data transformation with pandas
+50 XP
+Filling missing values with pandas
+100 XP
+Grouping data with pandas
+100 XP
+Applying advanced transformations to DataFrames
+100 XP
+Loading data to a SQL database with pandas
+50 XP
+Loading data to a Postgres database
+100 XP
+Validating data loaded to a Postgres Database
+100 XP

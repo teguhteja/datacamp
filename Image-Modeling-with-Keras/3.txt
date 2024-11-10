@@ -1,0 +1,27 @@
+3
+Going Deeper
+0%
+Convolutional neural networks gain a lot of power when they are constructed with multiple layers (deep networks). In this chapter, you will learn how to stack multiple convolutional layers into a deep network. You will also learn how to keep track of the number of parameters, as the network grows, and how to control this number.
+
+Going deeper
+50 XP
+Creating a deep learning network
+100 XP
+Train a deep CNN to classify clothing images
+100 XP
+What is special about a deep network?
+50 XP
+How many parameters?
+50 XP
+How many parameters in a CNN?
+50 XP
+How many parameters in a deep CNN?
+100 XP
+Pooling operations
+50 XP
+Write your own pooling operation
+100 XP
+Keras pooling layers
+100 XP
+Train a deep CNN with pooling to classify images
+100 XP

@@ -1,0 +1,33 @@
+3
+Measurement
+
+0%
+In this chapter, you'll get to the heart of image analysis: object measurement. Using a 4D cardiac time series, you'll determine if a patient is likely to have heart disease. Along the way, you'll learn the fundamentals of image segmentation, object labeling, and morphological measurement.
+Objects and labels
+50 XP
+Segment the heart
+100 XP
+Select objects
+100 XP
+Extract objects
+100 XP
+Measuring intensity
+50 XP
+Measure variance
+100 XP
+Separate histograms
+100 XP
+Measuring morphology
+50 XP
+Calculate volume
+50 XP
+Calculate distance
+100 XP
+Pinpoint center of mass
+100 XP
+Measuring in time
+50 XP
+Summarize the time series
+100 XP
+Measure ejection fraction
+100 XP

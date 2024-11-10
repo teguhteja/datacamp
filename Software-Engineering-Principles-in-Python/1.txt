@@ -1,0 +1,24 @@
+1
+Software Engineering & Data Science
+Free
+0%
+Why should you as a Data Scientist care about Software Engineering concepts? Here we'll cover specific Software Engineering concepts and how these important ideas can revolutionize your Data Science workflow!
+Python, data science, & software engineering
+50 XP
+The big ideas
+50 XP
+Python modularity in the wild
+100 XP
+Introduction to packages & documentation
+50 XP
+Installing packages with pip
+50 XP
+Leveraging documentation
+100 XP
+Conventions and PEP 8
+50 XP
+Using pycodestyle
+100 XP
+Conforming to PEP 8
+100 XP
+PEP 8 in documentation

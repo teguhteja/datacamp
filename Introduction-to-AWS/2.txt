@@ -1,0 +1,23 @@
+2
+Cloud Economics and Global Infrastructure
+
+0%
+Learn how to optimize cloud expenses, the different methods to deploy and manage resources on AWS, and the benefits of AWS’s global architecture.
+Understand concepts of cloud economics
+50 XP
+Exploring licensing strategies
+50 XP
+Right-sizing for optimal resource use
+50 XP
+Deploying and operating in AWS
+50 XP
+Understanding AWS connectivity options
+50 XP
+Choose the best connectivity tool
+100 XP
+Define the AWS Global Architecture
+50 XP
+Understanding the global architecture of AWS
+50 XP
+Exploring edge locations in Amazon CloudFront
+100 XP

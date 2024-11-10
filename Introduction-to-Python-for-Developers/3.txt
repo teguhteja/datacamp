@@ -1,0 +1,39 @@
+3
+Control flow and loops
+
+0%
+Conditional statements and operators, for and while loops all combine to enable customized workflows for your needs!
+Conditional statements and operators
+50 XP
+Conditional statements
+100 XP
+Checking inflation
+100 XP
+On the rental market
+100 XP
+For loops
+50 XP
+Looping through a list
+100 XP
+Updating a variable with for loops
+100 XP
+Conditional looping with a dictionary
+100 XP
+While loops
+50 XP
+Breaking a while loop
+50 XP
+Converting to a while loop
+100 XP
+Conditional while loops
+100 XP
+Building a workflow
+50 XP
+Appending to a list
+100 XP
+Book genre popularity
+100 XP
+Working with keywords
+100 XP
+Congratulations!
+50 XP

@@ -1,0 +1,21 @@
+1
+Introduction to Data Pipelines
+Available
+0%
+Get ready to discover how data is collected, processed, and moved using data pipelines. You will explore the qualities of the best data pipelines, and prepare to design and build your own.
+Introduction to ETL and ELT Pipelines
+50 XP
+Running an ETL Pipeline
+100 XP
+ELT in Action
+100 XP
+ETL and ELT Pipelines
+50 XP
+Building ETL and ELT Pipelines
+50 XP
+Building an ETL Pipeline
+100 XP
+The "T" in ELT
+100 XP
+Extracting, Transforming, and Loading Student Scores Data
+100 XP

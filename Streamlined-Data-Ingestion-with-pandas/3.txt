@@ -1,0 +1,34 @@
+3
+Importing Data from Databases
+0%
+Combine pandas with the powers of SQL to find out just how many problems New Yorkers have with their housing. This chapter features introductory SQL topics like WHERE clauses, aggregate functions, and basic joins.
+
+Introduction to databases
+50 XP
+Connect to a database
+100 XP
+Load entire tables
+100 XP
+Refining imports with SQL queries
+50 XP
+Selecting columns with SQL
+100 XP
+Selecting rows
+100 XP
+Filtering on multiple conditions
+100 XP
+More complex SQL queries
+50 XP
+Getting distinct values
+100 XP
+Counting in groups
+100 XP
+Working with aggregate functions
+100 XP
+Loading multiple tables with joins
+50 XP
+Joining tables
+100 XP
+Joining and filtering
+100 XP
+Joining, filtering, and aggregating

@@ -1,0 +1,27 @@
+1
+Image Processing With Neural Networks
+Free
+0%
+Convolutional neural networks use the data that is represented in images to learn. In this chapter, we will probe data in images, and we will learn how to use Keras to train a neural network to classify objects that appear in images.
+Introducing convolutional neural networks
+50 XP
+Images as data: visualizations
+100 XP
+Images as data: changing images
+100 XP
+Classifying images
+50 XP
+Using one-hot encoding to represent images
+100 XP
+Evaluating a classifier
+100 XP
+Classification with Keras
+50 XP
+Build a neural network
+100 XP
+Compile a neural network
+100 XP
+Fitting a neural network model to clothing data
+100 XP
+Cross-validation for neural network evaluation
+100 XP

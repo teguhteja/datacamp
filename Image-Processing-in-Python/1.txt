@@ -1,0 +1,27 @@
+1
+Introducing Image Processing and scikit-image
+
+0%
+Jump into digital image structures and learn to process them! Extract data, transform and analyze images using NumPy and Scikit-image. With just a few lines of code, you will convert RGB images to grayscale, get data from them, obtain histograms containing very useful information, and separate objects from the background!
+Make images come alive with scikit-image
+50 XP
+Is this gray or full of color?
+50 XP
+RGB to grayscale
+100 XP
+NumPy for images
+50 XP
+Flipping out
+100 XP
+Histograms
+100 XP
+Getting started with thresholding
+50 XP
+Apply global thresholding
+100 XP
+When the background isn't that obvious
+100 XP
+Trying other methods
+100 XP
+Apply thresholding
+100 XP

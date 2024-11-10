@@ -1,0 +1,31 @@
+4
+NumPy
+
+0%
+NumPy is a fundamental Python package to efficiently practice data science. Learn to work with powerful tools in the NumPy array, and get started with data exploration.
+NumPy
+50 XP
+Your First NumPy Array
+100 XP
+Baseball players' height
+100 XP
+NumPy Side Effects
+50 XP
+Subsetting NumPy Arrays
+100 XP
+2D NumPy Arrays
+50 XP
+Your First 2D NumPy Array
+100 XP
+Baseball data in 2D form
+100 XP
+Subsetting 2D NumPy Arrays
+100 XP
+2D Arithmetic
+100 XP
+NumPy: Basic Statistics
+50 XP
+Average versus median
+100 XP
+Explore the baseball data
+100 XP

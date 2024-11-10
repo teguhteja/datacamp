@@ -1,0 +1,23 @@
+2
+Interacting with APIs to import data from the web
+0%
+In this chapter, you will gain a deeper understanding of how to import data from the web. You will learn the basics of extracting data from APIs, gain insight on the importance of APIs, and practice extracting data by diving into the OMDB and Library of Congress APIs.
+
+Introduction to APIs and JSONs
+50 XP
+Pop quiz: What exactly is a JSON?
+50 XP
+Loading and exploring a JSON
+100 XP
+Pop quiz: Exploring your JSON
+50 XP
+APIs and interacting with the world wide web
+50 XP
+Pop quiz: What's an API?
+50 XP
+API requests
+100 XP
+JSON–from the web to Python
+100 XP
+Checking out the Wikipedia API
+100 XP

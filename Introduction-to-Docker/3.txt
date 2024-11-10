@@ -1,0 +1,35 @@
+3
+Creating Secure Docker Images
+
+0%
+In this final chapter, you’ll focus on making your Dockerfiles configurable and secure. You'll learn how to make your Dockerfiles configurable using the ARG and ENV instructions. You’ll see why changing the user in your images makes them more secure and how to use the USER Dockerfile instruction to do so. To wrap things up, you’ll learn about some essential security best practices when creating Docker Images.
+Introduction to Docker caching
+50 XP
+Docker caching
+50 XP
+Ordering Dockerfile instructions
+100 XP
+Changing users and working directory
+50 XP
+WORKDIR and USER
+50 XP
+Setting the user
+100 XP
+Setting the working directory
+100 XP
+Variables in Dockerfiles
+50 XP
+Understanding ARG and ENV
+50 XP
+Overriding ARG in a build
+100 XP
+Changing behavior when starting a container
+100 XP
+Creating Secure Docker Images
+50 XP
+Security best practices
+50 XP
+Keeping packages up-to-date
+50 XP
+Be safe, don't use root
+100 XP

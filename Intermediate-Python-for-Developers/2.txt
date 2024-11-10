@@ -1,0 +1,33 @@
+2
+Working with functions
+
+0%
+Learn the fundamentals of functions, from Python's built-in functions to creating your own from scratch!
+Defining a custom function
+50 XP
+Custom function syntax
+100 XP
+Cleaning text data
+100 XP
+Building a password checker
+100 XP
+Default and keyword arguments
+50 XP
+Positional versus keyword arguments
+100 XP
+Adding a keyword argument
+100 XP
+Data structure converter function
+100 XP
+Docstrings
+50 XP
+Single-line docstrings
+100 XP
+Multi-line docstrings
+100 XP
+Arbitrary arguments
+50 XP
+Adding arbitrary arguments
+100 XP
+Arbitrary keyword arguments
+100 XP

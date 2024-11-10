@@ -1,0 +1,31 @@
+2
+Python Lists
+
+0%
+Learn to store, access, and manipulate data in lists: the first step toward efficiently working with huge amounts of data.
+Python Lists
+50 XP
+Create a list
+100 XP
+Create lists with different types
+100 XP
+List of lists
+100 XP
+Subsetting Lists
+50 XP
+Subset and conquer
+100 XP
+Slicing and dicing
+100 XP
+Subsetting lists of lists
+100 XP
+Manipulating Lists
+50 XP
+Replace list elements
+100 XP
+Extend a list
+100 XP
+Delete list elements
+100 XP
+Inner workings of lists
+100 XP

@@ -1,0 +1,27 @@
+1
+Introduction to Cloud Computing
+Free
+0%
+In this chapter, you’ll learn why cloud computing is growing in popularity, how it compares to an on-premise solution, and what makes it so powerful. Next, you’ll learn about the three different service models—IaaS, PaaS, and SaaS—and how they each satisfy a unique set of business requirements.
+What is cloud computing?
+50 XP
+Understanding the cloud
+50 XP
+Cloud vs. on-premise
+100 XP
+Cloud computing services
+50 XP
+The power of the cloud
+50 XP
+Primary cloud services
+100 XP
+Key characteristics
+100 XP
+Cloud service models
+50 XP
+Outsourcing IT services
+100 XP
+IaaS, PaaS, or SaaS?
+100 XP
+Level of abstraction
+100 XP

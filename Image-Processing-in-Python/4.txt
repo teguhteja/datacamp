@@ -1,0 +1,33 @@
+4
+Advanced Operations, Detecting Faces and Features
+
+0%
+After completing this chapter, you will have a deeper knowledge of image processing as you will be able to detect edges, corners, and even faces! You will learn how to detect not just front faces but also face profiles, cat, or dogs. You will apply your skills to more complex real-world applications. Learn to master several widely used image processing techniques with very few lines of code!
+Finding the edges with Canny
+50 XP
+Edges
+100 XP
+Less edgy
+100 XP
+Right around the corner
+50 XP
+Perspective
+100 XP
+Less corners
+100 XP
+Face detection
+50 XP
+Is someone there?
+100 XP
+Multiple faces
+100 XP
+Segmentation and face detection
+100 XP
+Real-world applications
+50 XP
+Privacy protection
+100 XP
+Help Sally restore her graduation photo
+100 XP
+Amazing work!
+50 XP

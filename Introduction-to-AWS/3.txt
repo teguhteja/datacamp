@@ -1,0 +1,27 @@
+3
+The Core AWS Services
+
+0%
+Get hands-on experience working with the three core AWS services: Compute, Storage, and Database
+Introduction to AWS Compute services
+50 XP
+Using server vs serverless solutions
+100 XP
+Exploring serverless compute options
+100 XP
+Introduction to AWS Database services
+50 XP
+Exploring database options
+100 XP
+A database use case
+50 XP
+Introduction to AWS Storage services
+50 XP
+S3 storage classes
+50 XP
+Creating an S3 bucket
+100 XP
+Congratulations
+50 XP
+Self reflection questions
+100 XP

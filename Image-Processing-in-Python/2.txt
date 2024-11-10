@@ -1,0 +1,35 @@
+2
+Filters, Contrast, Transformation and Morphology
+
+0%
+You will learn to detect object shapes using edge detection filters, improve medical images with contrast enhancement and even enlarge pictures to five times its original size! You will also apply morphology to make thresholding more accurate when segmenting images and go to the next level of processing images with Python.
+Jump into filtering
+50 XP
+Edge detection
+100 XP
+Blurring to reduce noise
+100 XP
+Contrast enhancement
+50 XP
+What's the contrast of this image?
+50 XP
+Medical images
+100 XP
+Aerial image
+100 XP
+Let's add some impact and contrast
+100 XP
+Transformations
+50 XP
+Aliasing, rotating and rescaling
+100 XP
+Enlarging images
+100 XP
+Proportionally resizing
+100 XP
+Morphology
+50 XP
+Handwritten letters
+100 XP
+Improving thresholded image
+100 XP

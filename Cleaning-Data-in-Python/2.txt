@@ -1,0 +1,25 @@
+2
+Text and categorical data problems
+
+0%
+Categorical and text data can often be some of the messiest parts of a dataset due to their unstructured nature. In this chapter, you’ll learn how to fix whitespace and capitalization inconsistencies in category labels, collapse multiple categories into one, and reformat strings for consistency.
+Membership constraints
+50 XP
+Members only
+100 XP
+Finding consistency
+100 XP
+Categorical variables
+50 XP
+Categories of errors
+100 XP
+Inconsistent categories
+100 XP
+Remapping categories
+100 XP
+Cleaning text data
+50 XP
+Removing titles and taking names
+100 XP
+Keeping it descriptive
+100 XP

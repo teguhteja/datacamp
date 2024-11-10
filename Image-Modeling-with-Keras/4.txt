@@ -1,0 +1,27 @@
+4
+Understanding and Improving Deep Convolutional Networks
+
+0%
+There are many ways to improve training by neural networks. In this chapter, we will focus on our ability to track how well a network is doing, and explore approaches towards improving convolutional neural networks.
+Tracking learning
+50 XP
+Plot the learning curves
+100 XP
+Using stored weights to predict in a test set
+100 XP
+Regularization
+50 XP
+Adding dropout to your network
+100 XP
+Add batch normalization to your network
+100 XP
+Interpreting the model
+50 XP
+Extracting a kernel from a trained network
+100 XP
+Shape of the weights
+50 XP
+Visualizing kernel responses
+100 XP
+Next steps
+50 XP

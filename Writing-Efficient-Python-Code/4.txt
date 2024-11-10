@@ -1,0 +1,31 @@
+4
+Basic pandas optimizations
+0%
+This chapter offers a brief introduction on how to efficiently work with pandas DataFrames. You'll learn the various options you have for iterating over a DataFrame. Then, you'll learn how to efficiently apply functions to data stored in a DataFrame.
+
+Intro to pandas DataFrame iteration
+50 XP
+Iterating with .iterrows()
+100 XP
+Run differentials with .iterrows()
+100 XP
+Another iterator method: .itertuples()
+50 XP
+Iterating with .itertuples()
+100 XP
+Run differentials with .itertuples()
+100 XP
+pandas alternative to looping
+50 XP
+Analyzing baseball stats with .apply()
+100 XP
+Settle a debate with .apply()
+100 XP
+Optimal pandas iterating
+50 XP
+Replacing .iloc with underlying arrays
+100 XP
+Bringing it all together: Predict win percentage
+100 XP
+Congratulations!
+50 XP

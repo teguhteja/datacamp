@@ -1,0 +1,33 @@
+3
+Utilizing Classes
+0%
+Object Oriented Programming is a staple of Python development. By leveraging classes and inheritance your Python package will become a much more powerful tool for your users.
+
+Adding classes to a package
+50 XP
+Writing a class for your package
+100 XP
+Using your package's class
+100 XP
+Adding functionality to classes
+50 XP
+Writing a non-public method
+100 XP
+Using your class's functionality
+100 XP
+Classes and the DRY principle
+50 XP
+Using inheritance to create a class
+100 XP
+Adding functionality to a child class
+100 XP
+Using your child class
+100 XP
+Multilevel inheritance
+50 XP
+Exploring with dir and help
+100 XP
+Creating a grandchild class
+100 XP
+Using inherited methods
+100 XP

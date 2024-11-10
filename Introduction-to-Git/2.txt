@@ -1,0 +1,37 @@
+2
+Making changes
+0%
+Next, you’ll examine how Git stores data, learn essential commands to compare files and repositories at different times, and understand the process for restoring earlier versions of files in your data projects.
+
+Storing data with Git
+50 XP
+Interpreting the commit structure
+50 XP
+Viewing a repository's history
+50 XP
+Viewing a specific commit
+100 XP
+Viewing changes
+50 XP
+Comparing to the second most recent commit
+50 XP
+Comparing commits
+50 XP
+Who changed what?
+100 XP
+Undoing changes before committing
+50 XP
+How to unstage a file
+100 XP
+Undoing changes to unstaged files
+100 XP
+Undoing all changes
+100 XP
+Restoring and reverting
+50 XP
+Restoring an old version of a repo
+100 XP
+Deleting untracked files
+50 XP
+Restoring an old version of a file
+100 XP

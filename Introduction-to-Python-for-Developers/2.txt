@@ -1,0 +1,31 @@
+2
+Working with Data Types
+
+0%
+Learn how and when to use Python's built-in data structures, including lists, dictionaries, sets, and tuples!
+Working with strings
+50 XP
+Multi-line strings
+100 XP
+Modifying string variables
+100 XP
+Lists
+50 XP
+Building a party playlist
+100 XP
+Subsetting lists
+100 XP
+Dictionaries
+50 XP
+Building a playlist dictionary
+100 XP
+Working with dictionaries
+100 XP
+Sets and tuples
+50 XP
+Last quarter's revenue
+100 XP
+DJ Sets
+100 XP
+Choosing a data structure
+100 XP

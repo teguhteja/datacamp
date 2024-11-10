@@ -1,0 +1,27 @@
+1
+Foundations for efficiencies
+Free
+0%
+In this chapter, you'll learn what it means to write efficient Python code. You'll explore Python's Standard Library, learn about NumPy arrays, and practice using some of Python's built-in tools. This chapter builds a foundation for the concepts covered ahead.
+Welcome!
+50 XP
+Pop quiz: what is efficient
+50 XP
+A taste of things to come
+100 XP
+Zen of Python
+50 XP
+Building with built-ins
+50 XP
+Built-in practice: range()
+100 XP
+Built-in practice: enumerate()
+100 XP
+Built-in practice: map()
+100 XP
+The power of NumPy arrays
+50 XP
+Practice with NumPy arrays
+100 XP
+Bringing it all together: Festivus!
+100 XP

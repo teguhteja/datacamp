@@ -1,0 +1,29 @@
+3
+Functions and Packages
+
+0%
+You'll learn how to use functions, methods, and packages to efficiently leverage the code that brilliant Python developers have written. The goal is to reduce the amount of code you need to solve challenging problems!
+Functions
+50 XP
+Familiar functions
+100 XP
+Help!
+50 XP
+Multiple arguments
+100 XP
+Methods
+50 XP
+String Methods
+100 XP
+List Methods
+100 XP
+List Methods (2)
+100 XP
+Packages
+50 XP
+Import package
+100 XP
+Selective import
+100 XP
+Different ways of importing
+50 XP

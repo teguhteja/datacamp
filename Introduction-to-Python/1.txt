@@ -1,0 +1,25 @@
+1
+Python Basics
+Free
+
+0%
+An introduction to the basic concepts of Python. Learn how to use Python interactively and by using a script. Create your first variables and acquaint yourself with Python's basic data types.
+
+Hello Python!
+50 XP
+Your first Python code
+100 XP
+Any comments?
+100 XP
+Python as a calculator
+100 XP
+Variables and Types
+50 XP
+Variable Assignment
+100 XP
+Calculations with variables
+100 XP
+Other variable types
+100 XP
+Operations with other types
+100 XP
