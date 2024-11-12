@@ -1,0 +1,35 @@
+4
+Building production pipelines in Airflow
+0%
+Put it all together. In this final chapter, you’ll apply everything you've learned to build a production-quality workflow in Airflow.
+
+Working with templates
+50 XP
+Creating a templated BashOperator
+100 XP
+Templates with multiple arguments
+100 XP
+More templates
+50 XP
+Using lists with templates
+100 XP
+Understanding parameter options
+50 XP
+Sending templated emails
+100 XP
+Branching
+50 XP
+Define a BranchPythonOperator
+100 XP
+Branch troubleshooting
+50 XP
+Creating a production pipeline
+50 XP
+Creating a production pipeline #1
+100 XP
+Creating a production pipeline #2
+100 XP
+Adding the final changes to your pipeline
+100 XP
+Congratulations!
+50 XP

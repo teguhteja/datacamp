@@ -1,0 +1,35 @@
+2
+Implementing Airflow DAGs
+0%
+What’s up DAG? Now it’s time to learn the basics of implementing Airflow DAGs. Through hands-on activities, you’ll learn how to set up and deploy operators, tasks, and scheduling.
+
+Airflow operators
+50 XP
+Defining a BashOperator task
+100 XP
+Multiple BashOperators
+100 XP
+Airflow tasks
+50 XP
+Define order of BashOperators
+100 XP
+Determining the order of tasks
+100 XP
+Troubleshooting DAG dependencies
+50 XP
+Additional operators
+50 XP
+Using the PythonOperator
+100 XP
+More PythonOperators
+100 XP
+EmailOperator and dependencies
+100 XP
+Airflow scheduling
+50 XP
+Schedule a DAG via Python
+100 XP
+Deciphering Airflow schedules
+100 XP
+Troubleshooting DAG runs
+50 XP

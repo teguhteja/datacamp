@@ -1,0 +1,27 @@
+1
+Intro to Airflow
+Free
+0%
+In this chapter, you’ll gain a complete introduction to the components of Apache Airflow and learn how and why you should use them.
+Introduction to Apache Airflow
+50 XP
+Testing a task in Airflow
+50 XP
+Examining Airflow commands
+50 XP
+Airflow DAGs
+50 XP
+Defining a simple DAG
+100 XP
+Working with DAGs and the Airflow shell
+50 XP
+Troubleshooting DAG creation
+100 XP
+Airflow web interface
+50 XP
+Starting the Airflow webserver
+50 XP
+Navigating the Airflow UI
+50 XP
+Examining DAGs with the Airflow UI
+50 XP

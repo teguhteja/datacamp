@@ -1,0 +1,33 @@
+3
+Maintaining and monitoring Airflow workflows
+0%
+In this chapter, you’ll learn how to save yourself time using Airflow components such as sensors and executors while monitoring and troubleshooting Airflow workflows.
+
+Airflow sensors
+50 XP
+Sensors vs operators
+100 XP
+Sensory deprivation
+50 XP
+Airflow executors
+50 XP
+Determining the executor
+50 XP
+Executor implications
+100 XP
+Debugging and troubleshooting in Airflow
+50 XP
+DAGs in the bag
+50 XP
+Missing DAG
+100 XP
+SLAs and reporting in Airflow
+50 XP
+Defining an SLA
+100 XP
+Defining a task SLA
+100 XP
+Generate and email a report
+100 XP
+Adding status emails
+100 XP
