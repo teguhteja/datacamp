@@ -1,0 +1,29 @@
+3
+Deploying Machine Learning into Production
+0%
+In this chapter, you’ll dive into the concepts relevant to deploying machine learning into production, such as runtime environments, containerization, CI/CD pipelines, and deployment strategies.
+
+Preparing model for deployment
+50 XP
+Runtime environments
+50 XP
+To containerize or not to containerize
+50 XP
+Machine learning deployment architecture
+50 XP
+Microservice
+50 XP
+API data flow
+100 XP
+CICD and deployment strategy
+50 XP
+CICD pipelines
+50 XP
+Deployment strategies
+100 XP
+Automation and scaling
+50 XP
+How components automate and scale
+100 XP
+MLOps components
+50 XP

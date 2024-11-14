@@ -1,0 +1,23 @@
+1
+Introduction to MLOps
+Free
+0%
+First, you’ll learn about the core features of MLOps. You’ll explore the machine learning lifecycle, its phases, and the roles associated with MLOps processes.
+What is MLOps?
+50 XP
+Explaining MLOps
+50 XP
+MLOps principles
+100 XP
+Different phases in MLOps
+50 XP
+The ML lifecycle
+50 XP
+Tasks per phase
+100 XP
+Roles in MLOps
+50 XP
+Your MLOps team
+50 XP
+Core roles in MLOps processes
+100 XP

@@ -1,0 +1,29 @@
+2
+Design and Development
+0%
+Next, you’ll learn about the design and development phase in the machine learning lifecycle. You’ll explore added value estimation, data quality, feature stores, and experiment tracking.
+
+MLOps design
+50 XP
+Identifying business requirements
+50 XP
+Key metrics
+100 XP
+Data quality and ingestion
+50 XP
+Determining data quality
+50 XP
+Data quality dimensions
+100 XP
+Feature engineering
+50 XP
+Improving model performance
+50 XP
+Helping a friend
+100 XP
+Experiment tracking
+50 XP
+What can we track?
+50 XP
+Skipping experiment tracking
+50 XP

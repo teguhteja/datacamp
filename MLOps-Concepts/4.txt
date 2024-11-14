@@ -1,0 +1,31 @@
+4
+Maintaining Machine Learning in Production
+0%
+Finally, you’ll learn about maintaining machine learning in production, with concepts such as statistical and computational monitoring, retraining, different levels of MLOps maturity, and tools that can be used within the machine learning lifecycle to simplify processes.
+
+Monitoring machine learning models
+50 XP
+Machine learning monitoring
+50 XP
+Statistical vs. computational monitoring
+100 XP
+Retraining a machine learning model
+50 XP
+Examples of drift
+100 XP
+Retraining
+50 XP
+Levels of MLOps maturity
+50 XP
+MLOps maturity
+50 XP
+MLOps maturity levels
+100 XP
+MLOps tools
+50 XP
+Using a tool
+50 XP
+Pick the right tool
+100 XP
+Recap: MLOps concepts
+50 XP
